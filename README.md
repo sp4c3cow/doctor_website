@@ -4,13 +4,13 @@ To setup correctly, you need to install requirements.txt
 
 `pip3 install -r requirements.txt`
 
-Then run migrations and start django local server and browser localhost:8000 in your browser
+Then run migrations, start django local server and browser localhost:8000 in your browser
 
 `python3 manage.py migrate`
 
 `python3 manage.py runserver`
 
-Also you need to create a speruser account to be able to test all website functionality
+Also you need to create a superuser account to be able to test all website functionality
 
 `python3 manage.py createsuperuser`
 
