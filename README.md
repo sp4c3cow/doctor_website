@@ -14,6 +14,6 @@ Also you need to create a speruser account to be able to test all website functi
 
 `python3 manage.py createsuperuser`
 
-To access admin menuÐ, type this link in your browser and provide superuser credentials
+To access admin menu, type this link in your browser and provide superuser credentials
 
 `http://localhost:8000/admin`
